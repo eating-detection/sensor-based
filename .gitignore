@@ -1,9 +1,4 @@
 /original
 /label
 
-sensor_ts_df_4.parquet
-sensor_ts_df_bh.parquet
-sensor_ts_df_offset.parquet
-sensor_ts_df_yitong.parquet
-tempCodeRunnerFile.py
-wrong_instance.parquet
+*.parquet
