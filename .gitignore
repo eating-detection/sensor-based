@@ -1,4 +1,7 @@
 /original
 /label
-
+/wrong_label
+wrong_label.zip
+/wrong_label_0
+label.zip
 *.parquet
